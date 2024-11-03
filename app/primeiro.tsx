@@ -1,7 +1,7 @@
 import { View, Text } from 'react-native'
 import { styles } from "@/constants/styles";
 
-const Primeiro = () => {
+const TelaPrimeiro = () => {
     return (
         <View style={styles.container}>
             <Text>Primeiro Componente</Text>
@@ -9,4 +9,4 @@ const Primeiro = () => {
     )
 }
 
-export default Primeiro;
+export default TelaPrimeiro;
